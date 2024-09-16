@@ -1,8 +1,8 @@
 var config = {
         commonCapabilities: {
               browserName: "",
-              pCloudy_Username:"Enter-Email",
-              pCloudy_ApiKey: "Enter API KEY",
+              pCloudy_Username:"ravi.goswami@sstsinc.com",
+              pCloudy_ApiKey: "s46rxhf86qs5qjpknhy9kqsw",
               pCloudy_ApplicationName: "pCloudyAppiumDemo.apk",
               pCloudy_DurationInMinutes: "10",
               platformName: "Android",
